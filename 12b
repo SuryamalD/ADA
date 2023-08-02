@@ -71,3 +71,10 @@ break;
 }
 }
 }
+set xrange
+set yrange
+set xlabel 'N
+set ylabel 'operation count'
+set style data linespoints
+plot 'BC12b.txt' title 'analysis'
+pause -1 'hit any way
